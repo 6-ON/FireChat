@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireChat</string>
+    <string name="login_now">Login Now</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largetext">50sp</dimen>
+    <dimen name="edittextheight">50dp</dimen>
+    <dimen name="edittextmargin">20dp</dimen>
+    <dimen name="btnMargin">10dp</dimen>
+    <dimen name="editTextPadding">10dp</dimen>
+    <dimen name="LoginButtonsMargin">150dp</dimen>
+</resources>
